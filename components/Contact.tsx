@@ -98,7 +98,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/pranjalxlr8/"
+              href="https://www.linkedin.com/in/pran-dataxlr8/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 bg-[#111118] hover:bg-[#1a1a24] text-white font-semibold rounded-lg border border-[#1e1e2e] transition-colors"
